@@ -1,0 +1,14 @@
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\bin\Debug\net8.0\Banking Application.exe
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\bin\Debug\net8.0\Banking Application.deps.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\bin\Debug\net8.0\Banking Application.runtimeconfig.json
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\bin\Debug\net8.0\Banking Application.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\bin\Debug\net8.0\Banking Application.pdb
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\Banking Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\Banking Application.AssemblyInfoInputs.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\Banking Application.AssemblyInfo.cs
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\Banking Application.csproj.CoreCompileInputs.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\Banking Application.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\refint\Banking Application.dll
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\Banking Application.pdb
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\Banking Application.genruntimeconfig.cache
+C:\Users\peddi\OneDrive\Desktop\CHUBB\ASS7\Banking Application\obj\Debug\net8.0\ref\Banking Application.dll
